@@ -13,6 +13,3 @@ Importação de uma pasta inteira de cartões
 
 Interface gráfica em Swing com barra de progresso e pré-visualização
 
-<p align="center">
-  <img src="SISTEMA.png" alt="Pré-visualização do sistema" width="600">
-</p>
